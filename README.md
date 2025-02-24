@@ -1,2 +1,2 @@
 # Regression-Analysis-on-Cancer
-Academic project to employ R skills learned throughout the course.
+Working in a team of three, we conducted multiple linear regression analysis on a chosen dataset to answer our research questions. Using packages like "car" and "olsrr", we built least squares models, performed log transformations, and applied sequential model selection to refine our final model. We rigorously tested regression assumptions, assessed multicollinearity using VIF, evaluated model significance through hypothesis testing, and utilized leverage and interaction plots. Additionally, we improved interpretability by centering predictors, ensuring a robust and well-fitted model.
